@@ -1,0 +1,46 @@
+[
+	[
+		{
+			"type": "template",
+			"title": "Details",
+			"templateId": "TITLEBOX",
+			"items": [
+				{
+					"type": "template",
+					"title": "Dependency Name",
+					"key": "fullFileName",
+					"templateId": "SIMPLE",
+					"dataType": "string"
+				},
+				{
+					"type": "template",
+					"title": "Dependency Version",
+					"key": "customAttributes.DependencyVersion",
+					"templateId": "SIMPLE",
+					"dataType": "string"
+				},
+				{
+					"type": "template",
+					"title": "Title",
+					"key": "brief",
+					"templateId": "SIMPLE",
+					"dataType": "string"
+				},
+				{
+					"type": "template",
+					"title": "Link",
+					"key": "customAttributes.AdvisoryLink",
+					"templateId": "SIMPLE",
+					"dataType": "string"
+				},
+				{
+					"type": "template",
+					"title": "CVE",
+					"key": "customAttributes.AdvisoryCve",
+					"templateId": "SIMPLE",
+					"dataType": "string"
+				}
+			]
+		}
+	]
+]

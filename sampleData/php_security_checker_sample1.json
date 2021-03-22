@@ -1,0 +1,32 @@
+{
+	"cakephp/cakephp": {
+		"version": "3.4.0",
+		"advisories": [
+			{
+				"title": "XSS in some development error pages",
+				"link": "https://bakery.cakephp.org/2018/05/20/cakephp_364_3517_3414_released.html",
+				"cve": ""
+			},
+			{
+				"title": "Unsafe deserialization in SmtpTransport",
+				"link": "https://bakery.cakephp.org/2019/04/23/cakephp_377_3615_3518_released.html",
+				"cve": "CVE-2019-11458"
+			}
+		]
+	},
+	"zendframework/zend-diactoros": {
+		"version": "1.0.0",
+		"advisories": [
+			{
+				"title": "Potential XSS and Open Redirect vectors in zend-diactoros",
+				"link": "https://framework.zend.com/security/advisory/ZF2015-05",
+				"cve": "CVE-2015-3257"
+			},
+			{
+				"title": "URL Rewrite vulnerability",
+				"link": "https://framework.zend.com/security/advisory/ZF2018-01",
+				"cve": ""
+			}
+		]
+	}
+}
