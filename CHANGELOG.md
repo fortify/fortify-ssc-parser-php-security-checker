@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/compare/v1.0.1...v1.0.2) (2022-05-03)
+
+
+### Bug Fixes
+
+* Improve upload instructions in README.md ([4b5e905](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/commit/4b5e905b906aec552c17446158821aeb1e3d36d1))
+
 ### [1.0.1](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/compare/v1.0.0...v1.0.1) (2021-03-22)
 
 
