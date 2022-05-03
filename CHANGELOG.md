@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/compare/v1.0.2...v1.0.3) (2022-05-03)
+
+
+### Bug Fixes
+
+* Add missing changelog entry in previous release ([a8d2276](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/commit/a8d22761838fc44a3a94be2fd02fd7dc9893c4b2))
+* Update (potentially vulnerable) dependency versions ([73838ce](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/commit/73838ce5133c86bb2d9a85b0f9405e2017b2682c))
+
 ### [1.0.2](https://www.github.com/fortify-ps/fortify-ssc-parser-php-security-checker/compare/v1.0.1...v1.0.2) (2022-05-03)
 
 
