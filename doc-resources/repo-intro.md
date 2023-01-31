@@ -1,0 +1,1 @@
+This Fortify SSC parser plugin allows for importing scan results from [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker).

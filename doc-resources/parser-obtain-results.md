@@ -1,0 +1,1 @@
+Please see the Local PHP Security Checker documentation for details on checking applications and generating reports. Note that the SSC parser plugin requires the uploaded reports to be in JSON format.
